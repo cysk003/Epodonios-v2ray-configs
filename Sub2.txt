@@ -13,7 +13,6 @@ trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@188.114.97.7:443?path=/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@188.114.97.7:443?path=/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@188.114.97.7:443?path=/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
@@ -1003,3 +1002,4 @@ vless://29e577fa-7019-0da3-520a-d845cf081c7c@x4g-production-a10a.up.railway.app:
 vless://29e577fa-7019-0da3-520a-d845cf081c7c@x4g-production-a10a.up.railway.app:443?path=/ws/29e577fa-7019-0da3-520a-d845cf081c7c&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-a10a.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-a10a.up.railway.app#EPODONIOS
 vless://2My-chanel-Telegram-ATOVPN @167.104.219.193:40185?security=&encryption=none&headerType=&type=tcp#EPODONIOS
 vless://2My-chanel-Telegram-ATOVPN @167.104.219.193:40185?security=&encryption=none&headerType=&type=tcp#EPODONIOS
+vless://2a0a9344-d117-4f9d-9503-edde28000917@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&allowinsecure=0&type=ws&host=lsjaoijji.global.ssl.fastly.neT&path=/#EPODONIOS
